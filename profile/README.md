@@ -86,7 +86,7 @@ SaaSCoop is currently an initiative in structuring phase and is not yet presente
 Website: https://saas-coop.org  
 LinkedIn: https://www.linkedin.com/company/saascoop/  
 Instagram: https://www.instagram.com/saascoop_org/  
-YouTube: SaaSCoop Education
+YouTube: https://www.youtube.com/@SaaSCoop-Org
 
 ## Repository standards
 
