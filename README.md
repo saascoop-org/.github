@@ -1,22 +1,23 @@
-# SaaSCoop Organization Community Health Files
+# SaaSCoop
 
-This repository contains the default community health files for the `saascoop-org` GitHub organization.
+**Technology as a Common Good.**
 
-These files help standardize governance, contribution, support, security and funding information across SaaSCoop repositories.
+SaaSCoop is an open-source cooperative-oriented initiative building sustainable software, artificial intelligence and education for the common good.
 
-## Included files
+## Choose your language
 
-- `profile/README.md`: public GitHub organization profile
-- `CODE_OF_CONDUCT.md`: community behavior expectations
-- `CONTRIBUTING.md`: contribution guidelines
-- `GOVERNANCE.md`: initial governance model
-- `SECURITY.md`: security policy
-- `SUPPORT.md`: support expectations
-- `ROADMAP.md`: initial organizational roadmap
-- `FUNDING.yml`: funding configuration placeholder
+- 🇧🇷 [Português do Brasil](docs/pt-BR/README.md)
+- 🇺🇸 [English](docs/en/README.md)
+- 🇪🇸 [Español](docs/es/README.md)
+
+## Institutional documents
+
+- [Roadmap](docs/en/ROADMAP.md)
+- [Ecosystem](docs/en/ECOSYSTEM.md)
+- [Get involved](docs/en/GET_INVOLVED.md)
+- [FAQ](docs/en/FAQ.md)
+- [Governance](docs/en/GOVERNANCE.md)
 
 ## Current status
 
-SaaSCoop is an open source cooperative initiative in structuring phase.
-
-This repository does not represent a formally incorporated cooperative by itself. It documents the public institutional foundation for the initiative while legal, accounting and governance validation are in progress.
+SaaSCoop is currently in a structuring phase and is not yet presented here as a formally incorporated cooperative.
